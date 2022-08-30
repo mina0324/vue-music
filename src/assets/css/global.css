@@ -1,0 +1,33 @@
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    min-width: 1510px;
+    background-color: #80cbc4;
+    height: 100%;
+}
+
+
+
+.el-card {
+    margin-top: 20px;
+background-color: #748BA7;
+}
+.clearfix::after {
+    content: '';
+    clear: both;
+    display: block;
+    overflow: hidden;
+}
+
+
+.el-slider__runway {
+ margin: 0 ;
+}
+
+
+body {
+    height: 100%;
+}
