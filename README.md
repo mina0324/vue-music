@@ -1,4 +1,4 @@
-## 本项目依赖 [Binaryify](https://github.com/Binaryify) 提供的网易云音乐接口
+## 感谢 [Binaryify](https://github.com/Binaryify) 整理的网易云音乐接口
 
 ## 项目开始前请先启动接口服务(需要自己搭建)
 
